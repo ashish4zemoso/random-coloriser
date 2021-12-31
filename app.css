@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+h1 {
+  margin: auto;
+}
+button {
+  margin: auto;
+  width: 25vh;
+  height: 25vh;
+  margin: 5vh;
+}
